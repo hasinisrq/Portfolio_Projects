@@ -1,6 +1,6 @@
 *Directing saved files to other folder so that the raw file doesn't get manipulated*
 
-cd "E:\Ayon Important\econ a\#Research learning Materials- Tanjim bhai\Stata Practice\Stata Practice LFS 2022\Practice_Files"
+cd "E:\Important\Stata LFS 2022\q1_Files"
 use q1_clean2.dta
 save q1_clean2, replace
 
